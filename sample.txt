@@ -3,3 +3,4 @@ this is the second commit from github
 Poll SCM Build Triggers
 Github Hook triggers
 check for poll scm triggeres
+buid triggers when changes are pushed
